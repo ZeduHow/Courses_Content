@@ -21,3 +21,7 @@ Click on the name of a file and clone it edit it and submit, after we will look 
 
 # How do I make my own courses for ZeduHow?
 You can take care of the content part here at Github and push it!
+
+# Legal Info
+
+In Production With Zenterprise Companies LLC in Nevada, Las Vegas, USA -  Tokoyo, Japan
