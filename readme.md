@@ -1,6 +1,6 @@
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://cdn-images-1.medium.com/max/1920/1*NtukqwmWPdP7QcW6beGseQ.png)
 
 # Courses Content
 In this repo you'll be able to find the designs, content, techincal demos and videos, welcome to ZeduHow. 
