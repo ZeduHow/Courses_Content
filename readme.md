@@ -1,4 +1,6 @@
-# Courses_Content
+! [ Image of ZeduHow ] (http://zeduhow.com/assets/images/hero3.jpg)
+
+# Courses Content
 In this repo you'll be able to find the designs, content, techincal demos and videos, welcome to ZeduHow. 
 We're super for you to look over this repo of ours!
 
@@ -11,3 +13,4 @@ Learn More About it here: **https://creativecommons.org/licenses/by-nc-sa/3.0/**
 # How can you help?
 Well you add notes, help clearify and catch them ol' typos!
 
+# We're working in the development 
