@@ -1,4 +1,4 @@
-! [ Image of ZeduHow ] (http://zeduhow.com/assets/images/hero3.jpg)
+![ Image of ZeduHow ] (http://zeduhow.com/assets/images/hero3.jpg)
 
 # Courses Content
 In this repo you'll be able to find the designs, content, techincal demos and videos, welcome to ZeduHow. 
