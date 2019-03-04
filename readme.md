@@ -15,4 +15,9 @@ Learn More About it here: **https://creativecommons.org/licenses/by-nc-sa/3.0/**
 # How can you help?
 Well you add notes, help clearify and catch them ol' typos!
 
-# We're working in the development 
+# How to edit?
+
+Click on the name of a file and clone it edit it and submit, after we will look over it and take it from there!
+
+# How do I make my own courses for ZeduHow?
+You can take care of the content part here at Github and push it!
